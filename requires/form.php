@@ -75,6 +75,7 @@
                         <select  name = "zoneOrUnit" id ="zoneOrUnit" class="form-control form-control-lg" style="text-align: center">
                             <option>IRISET</option>
                             <option>ECoR</option>
+                            <option>NCR</option>
                             <option>NR</option>
                             <option>SCR</option>
                         </select>
