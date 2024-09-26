@@ -77,6 +77,7 @@
                             <option>ECoR</option>
                             <option>NCR</option>
                             <option>NR</option>
+                            <option>NCR</option>
                             <option>SCR</option>
                         </select>
                     </div>
